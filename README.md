@@ -1,3 +1,12 @@
+# My Software Development Learning Journey
+
+Welcome to my personal roadmap for mastering software development — a journey built on curiosity, discipline, and a passion for continuous growth. This repository is not just a list of books and resources; it's a carefully structured learning path designed to transform challenges into stepping stones toward expertise.
+
+From establishing a solid foundation in core Java to navigating the worlds of build tools, databases (both SQL and NoSQL), and full‑stack ecosystems.
+
+Happy learning and coding!
+
+
 ### Phase 1: Core Java Foundations (Jan 1, 2025 – Mar 31, 2025)
 | Resource | Status |
 |----------|--------|
