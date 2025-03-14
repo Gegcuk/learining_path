@@ -8,11 +8,34 @@ Happy learning and coding!
 
 ---
 
+## Phase 0: Pre-Core Foundations (Before 2025)
+
+| Resource                                    | Status | Category                                |
+|---------------------------------------------|--------|-----------------------------------------|
+| Clean Code                                  | ✅     | Software Engineering                    |
+| Essentials of Software Engineering          | ✅     | Software Engineering                    |
+| Software Testing Foundations                | ✅     | Software Testing & QA                   |
+| Requirements Engineering Foundations        | ✅     | Software Requirements & Analysis        |
+| Essentials Scrum                            | ✅     | Agile & Scrum                           |
+| Agile Product Management with Scrum         | ✅     | Agile & Product Management              |
+| Universal Principles of UX                  | ✅     | UX Design                               |
+| A Philosophy of Software Design             | ✅     | Software Design & Architecture          |
+| Design Patterns (Head First)                | ✅     | Software Design & Architecture          |
+| Head First Java                             | ✅     | Java & Object-Oriented Programming      |
+| Grokking Functional Thinking                | ✅     | Functional Programming                  |
+| Grokking Algorithms                         | ✅     | Algorithms & Data Structures            |
+| Algorithms in a Nutshell                    | ✅     | Algorithms & Data Structures            |
+| Algorithm Design                            | ✅     | Algorithms & Data Structures            |
+| Data Structures and Algorithms in Java      | ✅     | Algorithms & Data Structures            |
+
+
+---
+
 ## Phase 1: Core Java Foundations (Jan 1, 2025 – Mar 31, 2025)
 
 | Resource                     | Status     | Supporting Courses & Projects                                    |
 |------------------------------|------------|------------------------------------------------------------------|
-| Head First Java              | ✅ 2024    | **Codecademy – Learn Java**<br>**Coursera – Java Programming (Duke)** |
+| Thinking in Java              | ✅ 2024    | **Codecademy – Learn Java**<br>**Coursera – Java Programming (Duke)** |
 | Java: The Complete Reference | ✅ 2024    |                                                                  |
 | Effective Java               | ✅ 2024    |                                                                  |
 | Modern Java in Action        | ✅ 02.2025 |                                                                  |
