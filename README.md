@@ -39,7 +39,7 @@ Happy learning and coding!
 | Java: The Complete Reference | ✅ 2024    |                                                                  |
 | Effective Java               | ✅ 2024    |                                                                  |
 | Modern Java in Action        | ✅ 02.2025 |                                                                  |
-| JUnit 5 in Action            | [ ]        |                                                                  |
+| JUnit 5 in Action            | ✅ 02.2025  |                                                                  |
 
 ---
 
