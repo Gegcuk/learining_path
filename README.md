@@ -50,7 +50,7 @@ Happy learning and coding!
 | Gradle in Action                                                         | Build Tools  | [ ]    | **Udemy – Modern Gradle Fundamentals**                                  |
 | Maven: The Definitive Guide                                              | Build Tools  | [ ]    | **Pluralsight – Maven Fundamentals**                                    |
 | Learning SQL* by Alan Beaulieu                                           | SQL Database |  ✅    | **Codecademy – Learn SQL**                                              |
-| NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence | NoSQL        | [ ]    | **MongoDB University – M220J MongoDB for Java Developers**              |
+| Designing Data-Intensive Applications by Martin Kleppmann | NoSQL        | [ ]    | **MongoDB University – M220J MongoDB for Java Developers**              |
 
 ---
 
@@ -58,7 +58,7 @@ Happy learning and coding!
 
 | Resource                                        | Status | Supporting Courses & Projects                                           |
 |-------------------------------------------------|--------|-------------------------------------------------------------------------|
-| Java Concurrency in Practice                    | [ ]    | **Coursera – Concurrent Programming in Java (Rice University)**         |
+| Java Concurrency and Parallelism by Jianming Wang| [ ]    | **Coursera – Concurrent Programming in Java (Rice University)**         |
 | Java Performance: The Definitive Guide          | [ ]    | **Udemy – Java Virtual Threads & Concurrency Masterclass**              |
 | Spring in Action & Spring Boot: Up & Running    | [ ]    | **Spring Academy – Spring Professional Certification**<br>**Udemy – Spring Boot 3 & Hibernate (Chad Darby)** |
 | Practical Unit Testing with JUnit 5 and Mockito | [ ]    |                                                                         |
@@ -70,7 +70,7 @@ Happy learning and coding!
 | Resource                                        | Status | Supporting Courses & Projects                                           |
 |-------------------------------------------------|--------|-------------------------------------------------------------------------|
 | Spring Security in Action                       | [ ]    | **Spring Academy – Spring Security**                                    |
-| Spring Microservices in Action                  | [ ]    | **Udemy – Spring Boot Microservices with Spring Cloud**                 |
+| Microservices with Spring Boot and Spring Cloud by Magnus Larsson| [ ]    | **Udemy – Spring Boot Microservices with Spring Cloud**                 |
 | Spring Professional Certification Materials     | [ ]    | *(Included in Spring Academy above)*                                    |
 | Modern Testing with JUnit 5                     | [ ]    |                                                                         |
 
@@ -82,8 +82,8 @@ Happy learning and coding!
 |-------------------------------------------------|--------|-------------------------------------------------------------------------|
 | RxJava 3 and Spring WebFlux                     | [ ]    | **Udemy – Reactive Programming in Modern Java (Project Reactor)**       |
 | Kafka: The Definitive Guide                     | [ ]    | **Udemy – Apache Kafka Series (Stephane Maarek)**                       |
-| Docker in Action                                | [ ]    | **Udemy – DevOps: CI/CD with Jenkins, Maven, Gradle, Docker**           |
-| Kubernetes: Up and Running                      | [ ]    | *(Covered in Docker course above)*                                      |
+| Docker Deep Dive by Nigel Poulton                                | [ ]    | **Udemy – DevOps: CI/CD with Jenkins, Maven, Gradle, Docker**           |
+| The Kubernetes Book                      | [ ]    | *(Covered in Docker course above)*                                      |
 
 ---
 
