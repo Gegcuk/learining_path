@@ -49,7 +49,7 @@ Happy learning and coding!
 |--------------------------------------------------------------------------|--------------|--------|-------------------------------------------------------------------------|
 | Gradle in Action                                                         | Build Tools  | [ ]    | **Udemy – Modern Gradle Fundamentals**                                  |
 | Maven: The Definitive Guide                                              | Build Tools  | [ ]    | **Pluralsight – Maven Fundamentals**                                    |
-| Learning SQL* by Alan Beaulieu                                           | SQL Database |  ✅    | **Codecademy – Learn SQL**                                              |
+| Learning SQL* by Alan Beaulieu                                           | SQL Database |  ✅ 03.2025    | **Codecademy – Learn SQL**                                              |
 | Designing Data-Intensive Applications by Martin Kleppmann | NoSQL        | [ ]    | **MongoDB University – M220J MongoDB for Java Developers**              |
 
 ---
