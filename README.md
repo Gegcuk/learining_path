@@ -2,13 +2,16 @@
 
 Welcome to my personal roadmap for mastering software development—a journey built on curiosity, discipline, and a passion for continuous growth. This repository is a carefully structured learning path, enhanced with carefully selected courses and real-world projects to reinforce each phase of study.
 
-From establishing a solid foundation in core Java to navigating build tools, databases, microservices, and cloud-native ecosystems—here's my structured plan.
+From establishing a solid foundation in core Java to navigating build tools, databases, microservices, and cloud-native ecosystems—here’s my structured plan.
 
-Happy learning and coding!
+**Happy learning and coding!**
 
 ---
 
 ## Phase 0: Pre-Core Foundations (Before 2025)
+
+*(Completed prior to the roadmap launch — ✅ means done)*
+
 
 | Resource                                    | Status | Category                                |
 |---------------------------------------------|--------|-----------------------------------------|
@@ -28,10 +31,9 @@ Happy learning and coding!
 | Algorithm Design                            | ✅     | Algorithms & Data Structures            |
 | Data Structures and Algorithms in Java      | ✅     | Algorithms & Data Structures            |
 
-
 ---
 
-## Phase 1: Core Java Foundations & OCP Certification Prep (Jan 1, 2025 – Mar 31, 2025)
+## Phase 1: Core Java Foundations & OCP Certification Prep *(Mar 29, 2025 – Jun 15, 2025)*
 
 | Resource                                  | Status    | Supporting Courses & Projects                                      |
 |------------------------------------------|-----------|---------------------------------------------------------------------|
@@ -44,7 +46,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 2: Advanced Java & Spring Professional Certification (Apr 1, 2025 – Jun 30, 2025)
+## Phase 2: Advanced Java & Spring Professional Certification *(Jun 16, 2025 – Sep 15, 2025)*
 
 | Resource                                                  | Status | Supporting Courses & Projects                                                   |
 |-----------------------------------------------------------|--------|----------------------------------------------------------------------------------|
@@ -56,7 +58,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 3: Build Tools & Database Fundamentals (Jul 1, 2025 – Aug 31, 2025)
+## Phase 3: Build Tools & Database Fundamentals *(Sep 16, 2025 – Nov 15, 2025)*
 
 | Resource                                      | Category      | Status | Supporting Courses & Projects                   |
 |----------------------------------------------|---------------|--------|--------------------------------------------------|
@@ -67,7 +69,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 4: Further Spring Topics & Microservices (Sep 1, 2025 – Oct 31, 2025)
+## Phase 4: Further Spring Topics & Microservices *(Nov 16, 2025 – Jan 15, 2026)*
 
 | Resource                                                      | Status | Supporting Courses & Projects                                |
 |---------------------------------------------------------------|--------|---------------------------------------------------------------|
@@ -77,7 +79,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 5: Reactive / Event-Driven & DevOps (Nov 1, 2025 – Dec 31, 2025)
+## Phase 5: Reactive / Event-Driven & DevOps *(Jan 16, 2026 – Mar 15, 2026)*
 
 | Resource                                | Status | Supporting Courses & Projects                                             |
 |-----------------------------------------|--------|----------------------------------------------------------------------------|
@@ -88,22 +90,23 @@ Happy learning and coding!
 
 ---
 
-## Brief Interlude: Cloud Foundations & AWS Basics (Jan 1, 2026 – Jan 15, 2026)
+## Brief Interlude: Cloud Foundations & AWS Basics *(Mar 16, 2026 – Mar 31, 2026)*
 
 - **AWS Cloud Practitioner Essentials** (AWS Skill Builder)  
 - **AWS Fundamentals Specialization** (Coursera)
 
 ---
 
-## Phase 6: AWS Certified Developer Prep (Jan 16, 2026 – Mar 15, 2026)
+## Phase 6: AWS Certified Developer Prep *(Apr 1, 2026 – May 31, 2026)*
 
 | Resource                                     | Status | Supporting Courses & Projects                                                             |
 |----------------------------------------------|--------|--------------------------------------------------------------------------------------------|
 | AWS Certified Developer Official Study Guide | [ ]    | Udemy – Ultimate AWS Developer Associate (Stephane Maarek), Tutorials Dojo Practice Tests |
-| AWS Documentation & Labs  
+| AWS Documentation & Labs                     | [ ]    | AWS Docs, AWS Skill Builder, Hands-on Labs (AWS Free Tier)                                |
+
 ---
 
-## Phase 7: Additional Languages & Polyglot JVM (Mar 1, 2026 – Apr 15, 2026)
+## Phase 7: Additional Languages & Polyglot JVM *(Jun 1, 2026 – Jul 15, 2026)*
 
 | Resource                          | Category               | Status | Supporting Courses & Projects                                           |
 |-----------------------------------|------------------------|--------|-------------------------------------------------------------------------|
@@ -112,7 +115,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 8: Full‑Stack & Multi‑Ecosystem Integration (Apr 16, 2026 – May 31, 2026)
+## Phase 8: Full‑Stack & Multi‑Ecosystem Integration *(Jul 16, 2026 – Sep 15, 2026)*
 
 | Resource                                               | Category | Status | Supporting Courses & Projects                                           |
 |--------------------------------------------------------|----------|--------|-------------------------------------------------------------------------|
@@ -125,7 +128,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 9: Data Structures & Algorithms (Ongoing Practice)
+## Phase 9: Data Structures & Algorithms *(Ongoing Practice)*
 
 | Resource                                              | Status  | Supporting Courses & Projects                                           |
 |-------------------------------------------------------|---------|-------------------------------------------------------------------------|
@@ -134,7 +137,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 10: Foundational Topics (Daily 10–15 Minutes)
+## Phase 10: Foundational Topics *(Daily 10–15 Minutes)*
 
 | Resource                                                | Status | Supporting Courses & Projects                                           |
 |---------------------------------------------------------|--------|-------------------------------------------------------------------------|
@@ -142,7 +145,7 @@ Happy learning and coding!
 
 ---
 
-## Phase 11: Advanced Microservices & Cloud‑Native Architecture (Jun 1, 2026 – Jun 1, 2027)
+## Phase 11: Advanced Microservices & Cloud‑Native Architecture *(Sep 16, 2026 – Sep 15, 2027)*
 
 | Resource                                              | Category                             | Status | Supporting Courses & Projects                                           |
 |-------------------------------------------------------|--------------------------------------|--------|-------------------------------------------------------------------------|
@@ -159,4 +162,4 @@ Happy learning and coding!
 
 ---
 
-Happy learning and coding!
+**Happy learning and coding!**
