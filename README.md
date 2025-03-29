@@ -31,69 +31,76 @@ Happy learning and coding!
 
 ---
 
-## Phase 1: Core Java Foundations (Jan 1, 2025 – Mar 31, 2025)
+## Phase 1: Core Java Foundations & OCP Certification Prep (Jan 1, 2025 – Mar 31, 2025)
 
-| Resource                     | Status     | Supporting Courses & Projects                                    |
-|------------------------------|------------|------------------------------------------------------------------|
-| Thinking in Java              | ✅ 2024    | **Codecademy – Learn Java**<br>**Coursera – Java Programming (Duke)** |
-| Java: The Complete Reference | ✅ 2024    |                                                                  |
-| Effective Java               | ✅ 2024    |                                                                  |
-| Modern Java in Action        | ✅ 02.2025 |                                                                  |
-| JUnit 5 in Action            | ✅ 02.2025  |                                                                  |
-
----
-
-## Phase 2: Build Tools & Database Fundamentals (Apr 1, 2025 – May 31, 2025)
-
-| Resource                                                                 | Category     | Status | Supporting Courses & Projects                                           |
-|--------------------------------------------------------------------------|--------------|--------|-------------------------------------------------------------------------|
-| Gradle in Action                                                         | Build Tools  | [ ]    | **Udemy – Modern Gradle Fundamentals**                                  |
-| Maven: The Definitive Guide                                              | Build Tools  | [ ]    | **Pluralsight – Maven Fundamentals**                                    |
-| Learning SQL* by Alan Beaulieu                                           | SQL Database |  ✅ 03.2025    | **Codecademy – Learn SQL**                                              |
-| Designing Data-Intensive Applications by Martin Kleppmann | NoSQL        | [ ]    | **MongoDB University – M220J MongoDB for Java Developers**              |
+| Resource                                  | Status    | Supporting Courses & Projects                                      |
+|------------------------------------------|-----------|---------------------------------------------------------------------|
+| Thinking in Java                         | ✅ 2024   | Codecademy – Learn Java, Coursera – Java Programming (Duke)        |
+| Java: The Complete Reference             | ✅ 2024   |                                                                     |
+| Effective Java                           | ✅ 2024   |                                                                     |
+| Modern Java in Action                    | ✅ 02.2025|                                                                     |
+| JUnit 5 in Action                        | ✅ 02.2025|                                                                     |
+| OCP Java SE 17 Developer (1Z0-829) Prep  | [ ]       | Oracle Docs, OCP SE 17 Study Guide (Boyarsky & Selikoff), Enthuware |
 
 ---
 
-## Phase 3: Advanced Java & Spring (Jun 1, 2025 – Aug 31, 2025)
+## Phase 2: Advanced Java & Spring Professional Certification (Apr 1, 2025 – Jun 30, 2025)
 
-| Resource                                        | Status | Supporting Courses & Projects                                           |
-|-------------------------------------------------|--------|-------------------------------------------------------------------------|
-| Java Concurrency and Parallelism by Jianming Wang| [ ]    | **Coursera – Concurrent Programming in Java (Rice University)**         |
-| Java Performance: The Definitive Guide          | [ ]    | **Udemy – Java Virtual Threads & Concurrency Masterclass**              |
-| Spring in Action & Spring Boot: Up & Running    | [ ]    | **Spring Academy – Spring Professional Certification**<br>**Udemy – Spring Boot 3 & Hibernate (Chad Darby)** |
-| Practical Unit Testing with JUnit 5 and Mockito | [ ]    |                                                                         |
+| Resource                                                  | Status | Supporting Courses & Projects                                                   |
+|-----------------------------------------------------------|--------|----------------------------------------------------------------------------------|
+| Java Concurrency and Parallelism by Jianming Wang        | [ ]    | Coursera – Concurrent Programming in Java (Rice University)                     |
+| Java Performance: The Definitive Guide                   | [ ]    | Udemy – Java Virtual Threads & Concurrency Masterclass                          |
+| Spring in Action & Spring Boot: Up & Running             | [ ]    | Spring Academy – Spring Pro Cert, Udemy – Spring Boot 3 & Hibernate (Chad Darby)|
+| Practical Unit Testing with JUnit 5 and Mockito          | [ ]    |                                                                                  |
+| Spring Professional Certification (2V0-72.22) Prep       | [ ]    | Spring Docs, Spring in Action, Spring Academy, Cert Study Guide, Mock Exams     |
 
 ---
 
-## Phase 4: Further Spring Topics & Certification Prep (Sep 1, 2025 – Oct 31, 2025)
+## Phase 3: Build Tools & Database Fundamentals (Jul 1, 2025 – Aug 31, 2025)
 
-| Resource                                        | Status | Supporting Courses & Projects                                           |
-|-------------------------------------------------|--------|-------------------------------------------------------------------------|
-| Spring Security in Action                       | [ ]    | **Spring Academy – Spring Security**                                    |
-| Microservices with Spring Boot and Spring Cloud by Magnus Larsson| [ ]    | **Udemy – Spring Boot Microservices with Spring Cloud**                 |
-| Spring Professional Certification Materials     | [ ]    | *(Included in Spring Academy above)*                                    |
-| Modern Testing with JUnit 5                     | [ ]    |                                                                         |
+| Resource                                      | Category      | Status | Supporting Courses & Projects                   |
+|----------------------------------------------|---------------|--------|--------------------------------------------------|
+| Gradle in Action                             | Build Tools   | [ ]    | Udemy – Modern Gradle Fundamentals              |
+| Maven: The Definitive Guide                  | Build Tools   | [ ]    | Pluralsight – Maven Fundamentals                |
+| Learning SQL* by Alan Beaulieu               | SQL Database  | ✅ 03.2025| Codecademy – Learn SQL                          |
+| Designing Data-Intensive Applications        | NoSQL         | [ ]    | MongoDB University – M220J MongoDB for Java Dev |
+
+---
+
+## Phase 4: Further Spring Topics & Microservices (Sep 1, 2025 – Oct 31, 2025)
+
+| Resource                                                      | Status | Supporting Courses & Projects                                |
+|---------------------------------------------------------------|--------|---------------------------------------------------------------|
+| Spring Security in Action                                     | [ ]    | Spring Academy – Spring Security                              |
+| Microservices with Spring Boot and Spring Cloud by Larsson    | [ ]    | Udemy – Spring Boot Microservices with Spring Cloud           |
+| Modern Testing with JUnit 5                                   | [ ]    |                                                               |
 
 ---
 
 ## Phase 5: Reactive / Event-Driven & DevOps (Nov 1, 2025 – Dec 31, 2025)
 
-| Resource                                        | Status | Supporting Courses & Projects                                           |
-|-------------------------------------------------|--------|-------------------------------------------------------------------------|
-| RxJava 3 and Spring WebFlux                     | [ ]    | **Udemy – Reactive Programming in Modern Java (Project Reactor)**       |
-| Kafka: The Definitive Guide                     | [ ]    | **Udemy – Apache Kafka Series (Stephane Maarek)**                       |
-| Docker Deep Dive by Nigel Poulton                                | [ ]    | **Udemy – DevOps: CI/CD with Jenkins, Maven, Gradle, Docker**           |
-| The Kubernetes Book                      | [ ]    | *(Covered in Docker course above)*                                      |
+| Resource                                | Status | Supporting Courses & Projects                                             |
+|-----------------------------------------|--------|----------------------------------------------------------------------------|
+| RxJava 3 and Spring WebFlux             | [ ]    | Udemy – Reactive Programming in Modern Java (Project Reactor)             |
+| Kafka: The Definitive Guide             | [ ]    | Udemy – Apache Kafka Series (Stephane Maarek)                             |
+| Docker Deep Dive by Nigel Poulton      | [ ]    | Udemy – DevOps: CI/CD with Jenkins, Maven, Gradle, Docker                |
+| The Kubernetes Book                     | [ ]    | (Covered in Docker course above)                                          |
 
 ---
 
-## Phase 6: AWS Certified Developer Prep (Jan 1, 2026 – Feb 28, 2026)
+## Brief Interlude: Cloud Foundations & AWS Basics (Jan 1, 2026 – Jan 15, 2026)
 
-| Resource                                     | Status | Supporting Courses & Projects                                           |
-|----------------------------------------------|--------|-------------------------------------------------------------------------|
-| AWS Certified Developer Official Study Guide | [ ]    | **Udemy – Ultimate AWS Certified Developer Associate**                  |
-| AWS Documentation & Labs                     | [ ]    | *(Included in AWS course above)*                                        |
+- **AWS Cloud Practitioner Essentials** (AWS Skill Builder)  
+- **AWS Fundamentals Specialization** (Coursera)
 
+---
+
+## Phase 6: AWS Certified Developer Prep (Jan 16, 2026 – Mar 15, 2026)
+
+| Resource                                     | Status | Supporting Courses & Projects                                                             |
+|----------------------------------------------|--------|--------------------------------------------------------------------------------------------|
+| AWS Certified Developer Official Study Guide | [ ]    | Udemy – Ultimate AWS Developer Associate (Stephane Maarek), Tutorials Dojo Practice Tests |
+| AWS Documentation & Labs  
 ---
 
 ## Phase 7: Additional Languages & Polyglot JVM (Mar 1, 2026 – Apr 15, 2026)
