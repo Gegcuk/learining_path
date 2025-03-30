@@ -133,7 +133,7 @@ From establishing a solid foundation in core Java to navigating build tools, dat
 | Resource                                              | Status  | Supporting Courses & Projects                                           |
 |-------------------------------------------------------|---------|-------------------------------------------------------------------------|
 | Data Structures and Algorithms in Java (Latest Edition)| ✅ 2024 | *(LeetCode, HackerRank for ongoing practice)*                           |
-| The Perfect Algorithm                                 | ✅ 2024 | *(Competitive programming practice as reinforcement)*                   |
+| The Perfect Algorithm                                 |  ✅ 2024 | *(Competitive programming practice as reinforcement)*                   |
 
 ---
 
