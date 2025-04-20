@@ -4,7 +4,16 @@ Welcome to my personal roadmap for mastering software development—a journey bu
 
 From establishing a solid foundation in core Java to navigating build tools, databases, microservices, and cloud-native ecosystems—here’s my structured plan.
 
-**Happy learning and coding!**
+
+## 📝 Learning Tactics
+I use self-made tactics to enhance my learning based on recent researches. For every chapter I read, I create detailed tests that include:
+- Open questions  
+- Test questions  
+- Multiple choice questions  
+- Fill-the-gap exercises  
+- Architecture and practice questions  
+
+This approach reinforces my understanding and ensures I can apply theoretical knowledge in practical scenarios.
 
 ---
 
