@@ -1,17 +1,19 @@
-# My Software Development Learning Journey
+# 🛤️ My Software Development Learning Journey
 
-Welcome to my personal roadmap for mastering software development—a journey built on curiosity, discipline, and a passion for continuous growth. This repository is a carefully structured learning path, enhanced with carefully selected courses and real-world projects to reinforce each phase of study.
+Welcome to my personal roadmap for mastering software development—a journey built on curiosity, discipline, and a passion for continuous growth. This repository is a carefully structured learning path, enhanced with selected courses and real-world projects to reinforce each phase of study.
 
-From establishing a solid foundation in core Java to navigating build tools, databases, microservices, and cloud-native ecosystems—here’s my structured plan.
+From establishing a solid foundation in core Java to navigating build tools, databases, microservices, GraphQL, and cloud-native ecosystems—here’s my structured plan.
 
+---
 
 ## 📝 Learning Tactics
-I use self-made tactics to enhance my learning based on recent researches. For every chapter I read, I create detailed tests that include:
-- Open questions  
-- Test questions  
-- Multiple choice questions  
-- Fill-the-gap exercises  
-- Architecture and practice questions  
+
+I employ self-devised strategies to enhance my learning, grounded in recent research. For every chapter I read, I create detailed tests that include:
+
+- Open-ended questions  
+- Multiple-choice questions  
+- Fill-in-the-blank exercises  
+- Architecture and practical application questions  
 
 This approach reinforces my understanding and ensures I can apply theoretical knowledge in practical scenarios.
 
@@ -19,156 +21,158 @@ This approach reinforces my understanding and ensures I can apply theoretical kn
 
 ## Phase 0: Pre-Core Foundations (Before 2025)
 
-*(Completed prior to the roadmap launch — ✅ means done)*
+_(Completed prior to the roadmap launch — ✅ indicates completion)_
 
-
-| Resource                                    | Status | Category                                |
-|---------------------------------------------|--------|-----------------------------------------|
-| Clean Code                                  | ✅     | Software Engineering                    |
-| Essentials of Software Engineering          | ✅     | Software Engineering                    |
-| Software Testing Foundations                | ✅     | Software Testing & QA                   |
-| Requirements Engineering Foundations        | ✅     | Software Requirements & Analysis        |
-| Essentials Scrum                            | ✅     | Agile & Scrum                           |
-| Agile Product Management with Scrum         | ✅     | Agile & Product Management              |
-| Universal Principles of UX                  | ✅     | UX Design                               |
-| A Philosophy of Software Design             | ✅     | Software Design & Architecture          |
-| Design Patterns (Head First)                | ✅     | Software Design & Architecture          |
-| Head First Java                             | ✅     | Java & Object-Oriented Programming      |
-| Grokking Functional Thinking                | ✅     | Functional Programming                  |
-| Grokking Algorithms                         | ✅     | Algorithms & Data Structures            |
-| Algorithms in a Nutshell                    | ✅     | Algorithms & Data Structures            |
-| Algorithm Design                            | ✅     | Algorithms & Data Structures            |
-| Data Structures and Algorithms in Java      | ✅     | Algorithms & Data Structures            |
-
----
-
-## Phase 1: Core Java Foundations & OCP Certification Prep *(Mar 29, 2025 – Jun 15, 2025)*
-
-| Resource                                  | Status    | Supporting Courses & Projects                                      |
-|------------------------------------------|-----------|---------------------------------------------------------------------|
-| Thinking in Java                         | ✅ 2024   | Codecademy – Learn Java, Coursera – Java Programming (Duke)        |
-| Java: The Complete Reference             | ✅ 2024   |                                                                     |
-| Effective Java                           | ✅ 2024   |                                                                     |
-| Modern Java in Action                    | ✅ 02.2025|                                                                     |
-| JUnit 5 in Action                        | ✅ 02.2025|                                                                     |
-| OCP Java SE 17 Developer (1Z0-829) Prep  | [ ]       | Oracle Docs, OCP SE 17 Study Guide (Boyarsky & Selikoff), Enthuware |
+| Resource | Status | Category |
+|---|---|---|
+| Clean Code | ✅ | Software Engineering |
+| Essentials of Software Engineering | ✅ | Software Engineering |
+| Software Testing Foundations | ✅ | Software Testing & QA |
+| Requirements Engineering Foundations | ✅ | Software Requirements & Analysis |
+| Essential Scrum | ✅ | Agile & Scrum |
+| Agile Product Management with Scrum | ✅ | Agile & Product Management |
+| Universal Principles of UX | ✅ | UX Design |
+| A Philosophy of Software Design | ✅ | Software Design & Architecture |
+| Head First Design Patterns | ✅ | Software Design & Architecture |
+| Head First Java | ✅ | Java & OOP |
+| Grokking Functional Thinking | ✅ | Functional Programming |
+| Grokking Algorithms | ✅ | Algorithms & DS |
+| Algorithms in a Nutshell | ✅ | Algorithms & DS |
+| Algorithm Design | ✅ | Algorithms & DS |
+| Data Structures and Algorithms in Java | ✅ | Algorithms & DS |
 
 ---
 
-## Phase 2: Advanced Java & Spring Professional Certification *(Jun 16, 2025 – Sep 15, 2025)*
+## Phase 1: Core Java Foundations & OCP Certification Prep (Mar 29, 2025 – Jun 15, 2025)
 
-| Resource                                                  | Status | Supporting Courses & Projects                                                   |
-|-----------------------------------------------------------|--------|----------------------------------------------------------------------------------|
-| Java Concurrency and Parallelism by Jianming Wang        | [ ]    | Coursera – Concurrent Programming in Java (Rice University)                     |
-| Java Performance: The Definitive Guide                   | [ ]    | Udemy – Java Virtual Threads & Concurrency Masterclass                          |
-| Spring in Action & Spring Boot: Up & Running             | [ ]    | Spring Academy – Spring Pro Cert, Udemy – Spring Boot 3 & Hibernate (Chad Darby)|
-| Practical Unit Testing with JUnit 5 and Mockito          | [ ]    |                                                                                  |
-| Spring Professional Certification (2V0-72.22) Prep       | [ ]    | Spring Docs, Spring in Action, Spring Academy, Cert Study Guide, Mock Exams     |
-
----
-
-## Phase 3: Build Tools & Database Fundamentals *(Sep 16, 2025 – Nov 15, 2025)*
-
-| Resource                                      | Category      | Status | Supporting Courses & Projects                   |
-|----------------------------------------------|---------------|--------|--------------------------------------------------|
-| Gradle in Action                             | Build Tools   | [ ]    | Udemy – Modern Gradle Fundamentals              |
-| Maven: The Definitive Guide                  | Build Tools   | [ ]    | Pluralsight – Maven Fundamentals                |
-| Learning SQL* by Alan Beaulieu               | SQL Database  | ✅ 03.2025| Codecademy – Learn SQL                          |
-| Designing Data-Intensive Applications        | NoSQL         | [ ]    | MongoDB University – M220J MongoDB for Java Dev |
+| Resource | Status | Supporting Courses & Projects |
+|---|---|---|
+| Thinking in Java | ✅ 2024 | Codecademy, Coursera (Duke) |
+| Java: The Complete Reference | ✅ 2024 |  |
+| Effective Java | ✅ 2024 |  |
+| Modern Java in Action | ✅ 02.2025 |  |
+| JUnit 5 in Action | ✅ 02.2025 |  |
+| OCP Java SE 17 Developer (1Z0-829) Prep | [ ] | Oracle Docs, Boyarsky & Selikoff, Enthuware |
 
 ---
 
-## Phase 4: Further Spring Topics & Microservices *(Nov 16, 2025 – Jan 15, 2026)*
+## Phase 2: Advanced Java & Spring Pro Cert (Jun 16, 2025 – Sep 15, 2025)
 
-| Resource                                                      | Status | Supporting Courses & Projects                                |
-|---------------------------------------------------------------|--------|---------------------------------------------------------------|
-| Spring Security in Action                                     | [ ]    | Spring Academy – Spring Security                              |
-| Microservices with Spring Boot and Spring Cloud by Larsson    | [ ]    | Udemy – Spring Boot Microservices with Spring Cloud           |
-| Modern Testing with JUnit 5                                   | [ ]    |                                                               |
-
----
-
-## Phase 5: Reactive / Event-Driven & DevOps *(Jan 16, 2026 – Mar 15, 2026)*
-
-| Resource                                | Status | Supporting Courses & Projects                                             |
-|-----------------------------------------|--------|----------------------------------------------------------------------------|
-| RxJava 3 and Spring WebFlux             | [ ]    | Udemy – Reactive Programming in Modern Java (Project Reactor)             |
-| Kafka: The Definitive Guide             | [ ]    | Udemy – Apache Kafka Series (Stephane Maarek)                             |
-| Docker Deep Dive by Nigel Poulton      | [ ]    | Udemy – DevOps: CI/CD with Jenkins, Maven, Gradle, Docker                |
-| The Kubernetes Book                     | [ ]    | (Covered in Docker course above)                                          |
+| Resource | Status | Supporting Courses & Projects |
+|---|---|---|
+| Java Concurrency in Practice | [ ] | Coursera (Rice University) |
+| Java Performance: The Definitive Guide | [ ] | Udemy – Java Virtual Threads |
+| Spring in Action | [ ] | Spring Academy, Udemy (Chad Darby) |
+| Spring Boot: Up & Running | [ ] |  |
+| Practical Unit Testing (JUnit 5 + Mockito) | [ ] |  |
+| Spring Pro Cert (2V0-72.22) Prep | [ ] | Spring Docs, Cert Guide, Mock Exams |
 
 ---
 
-## Brief Interlude: Cloud Foundations & AWS Basics *(Mar 16, 2026 – Mar 31, 2026)*
+## Phase 3: Build Tools & Database Fundamentals (Sep 16 – Nov 15, 2025)
 
-- **AWS Cloud Practitioner Essentials** (AWS Skill Builder)  
-- **AWS Fundamentals Specialization** (Coursera)
-
----
-
-## Phase 6: AWS Certified Developer Prep *(Apr 1, 2026 – May 31, 2026)*
-
-| Resource                                     | Status | Supporting Courses & Projects                                                             |
-|----------------------------------------------|--------|--------------------------------------------------------------------------------------------|
-| AWS Certified Developer Official Study Guide | [ ]    | Udemy – Ultimate AWS Developer Associate (Stephane Maarek), Tutorials Dojo Practice Tests |
-| AWS Documentation & Labs                     | [ ]    | AWS Docs, AWS Skill Builder, Hands-on Labs (AWS Free Tier)                                |
+| Resource | Category | Status | Supporting Courses & Projects |
+|---|---|---|---|
+| Gradle in Action | Build Tools | [ ] | Udemy – Gradle Fundamentals |
+| Maven: The Definitive Guide | Build Tools | [ ] | Pluralsight |
+| Learning SQL (Alan Beaulieu) | SQL | ✅ 03.2025 | Codecademy |
+| Designing Data-Intensive Apps | NoSQL | [ ] | MongoDB Uni – M220J |
 
 ---
 
-## Phase 7: Additional Languages & Polyglot JVM *(Jun 1, 2026 – Jul 15, 2026)*
+## Phase 4: Spring, Microservices & GraphQL (Nov 16 – Jan 15, 2026)
 
-| Resource                          | Category               | Status | Supporting Courses & Projects                                           |
-|-----------------------------------|------------------------|--------|-------------------------------------------------------------------------|
-| Kotlin in Action                  | JVM - Kotlin           | [ ]    | *(Official Kotlin Documentation, JetBrains Academy Kotlin Track)*       |
-| *(Optional)* Programming in Scala | JVM - Scala (Optional) | [ ]    | *(Coursera – Functional Programming Principles in Scala)*               |
-
----
-
-## Phase 8: Full‑Stack & Multi‑Ecosystem Integration *(Jul 16, 2026 – Sep 15, 2026)*
-
-| Resource                                               | Category | Status | Supporting Courses & Projects                                           |
-|--------------------------------------------------------|----------|--------|-------------------------------------------------------------------------|
-| HTML & CSS by Jon Duckett (Finished)                   | Front‑End| ✅ 2024|                                                                         |
-| Eloquent JavaScript                                    | Front‑End| [ ]    |                                                                         |
-| Angular in Action *(or official guides for React/Vue)* | Front‑End| [ ]    | **YouTube – Full-Stack Java Web Development (Spring Boot + Angular)**   |
-| Learning Node.js                                       | Node.js  | [ ]    |                                                                         |
-| C# 9.0 in a Nutshell                                   | .NET     | [ ]    |                                                                         |
-| Pro ASP.NET Core                                       | .NET     | [ ]    |                                                                         |
+| Resource | Status | Supporting Courses & Projects |
+|---|---|---|
+| Spring Security in Action | [ ] | Spring Academy |
+| Microservices w/ Spring Boot (Larsson) | [ ] | Udemy |
+| Learning GraphQL | [ ] | Apollo, Robin Wieruch |
+| GraphQL with Spring Boot | [ ] | Baeldung, Official Docs |
+| Modern Testing with JUnit 5 | [ ] |  |
 
 ---
 
-## Phase 9: Data Structures & Algorithms *(Ongoing Practice)*
+## Phase 5: Reactive / Event-Driven & DevOps (Jan 16 – Mar 15, 2026)
 
-| Resource                                              | Status  | Supporting Courses & Projects                                           |
-|-------------------------------------------------------|---------|-------------------------------------------------------------------------|
-| Data Structures and Algorithms in Java (Latest Edition)| ✅ 2024 | *(LeetCode, HackerRank for ongoing practice)*                           |
-| The Perfect Algorithm                                 |  ✅ 2024 | *(Competitive programming practice as reinforcement)*                   |
-
----
-
-## Phase 10: Foundational Topics *(Daily 10–15 Minutes)*
-
-| Resource                                                | Status | Supporting Courses & Projects                                           |
-|---------------------------------------------------------|--------|-------------------------------------------------------------------------|
-| Short Articles/Chapters on OS, Database, Networking     | [ ]    | *(LinkedIn Learning, YouTube short tutorials, blogs)*                   |
+| Resource | Status | Supporting Courses & Projects |
+|---|---|---|
+| Reactive Programming with Project Reactor | [ ] | Udemy |
+| Kafka: The Definitive Guide | [ ] | Udemy (Stephane Maarek) |
+| Docker Deep Dive | [ ] | Udemy – CI/CD, Jenkins, Docker |
+| The Kubernetes Book | [ ] | Included in Docker course |
 
 ---
 
-## Phase 11: Advanced Microservices & Cloud‑Native Architecture *(Sep 16, 2026 – Sep 15, 2027)*
+## ☁️ Cloud Foundations (Mar 16 – Mar 31, 2026)
 
-| Resource                                              | Category                             | Status | Supporting Courses & Projects                                           |
-|-------------------------------------------------------|--------------------------------------|--------|-------------------------------------------------------------------------|
-| Building Microservices                                | Microservices & System Design        | [ ]    | **Educative – Grokking the System Design Interview**                    |
-| Clean Architecture                                    | Microservices & System Design        | [ ]    | **Pluralsight – Microservices Architecture Fundamentals**               |
-| Domain‑Driven Design                                  | Domain‑Driven Design                 | [ ]    | *(Official DDD community resources)*                                    |
-| Implementing Domain‑Driven Design                     | Domain‑Driven Design                 | [ ]    | *(As above)*                                                            |
-| Cloud Native Java                                     | Cloud‑Native Patterns                | [ ]    | *(Covered in Spring Cloud courses above)*                               |
-| Distributed Systems Observability (Cindy Sridharan)   | Cloud‑Native Patterns & Observability | [ ]    | **Udemy – Observability for Developers (Prometheus, Grafana, Jaeger)**  |
-| Designing Data‑Intensive Applications                 | System Design & Scalability          | [ ]    | **Educative – Designing Data-Intensive Applications Masterclass**       |
-| Microservices Patterns: With Examples in Java         | System Design & Scalability          | [ ]    | **Pluralsight – Microservices Patterns**                                |
-| Reactive Design Patterns                              | Reactive & Event‑Driven Architectures | [ ]    | *(Included in Reactive courses above)*                                  |
-| Reactive Microservices Patterns                       | Reactive & Event‑Driven Architectures | [ ]    | **Udemy – Reactive Spring Boot Microservices**                          |
+- AWS Cloud Practitioner Essentials (AWS Skill Builder)  
+- AWS Fundamentals Specialization (Coursera)  
 
 ---
 
-**Happy learning and coding!**
+## Phase 6: AWS Developer Certification (Apr 1 – May 31, 2026)
+
+| Resource | Status | Supporting Courses & Projects |
+|---|---|---|
+| AWS Developer Official Guide | [ ] | Udemy (Stephane Maarek), Tutorials Dojo |
+| AWS Docs & Labs | [ ] | AWS Docs & Skill Builder |
+
+---
+
+## Phase 7: JVM Polyglot (Jun 1 – Jul 15, 2026)
+
+| Resource | Category | Status | Supporting Courses & Projects |
+|---|---|---|---|
+| Kotlin in Action | Kotlin | [ ] | JetBrains Academy |
+| Programming in Scala (Optional) | Scala | [ ] | Coursera (Martin Odersky) |
+
+---
+
+## Phase 8: Full-Stack & Multi-Ecosystem (Jul 16 – Sep 15, 2026)
+
+| Resource | Category | Status | Supporting Courses & Projects |
+|---|---|---|---|
+| HTML & CSS (Duckett) | Front-End | ✅ 2024 |  |
+| Eloquent JavaScript | Front-End | [ ] | FreeCodeCamp |
+| React / Angular / Vue | Front-End | [ ] | Udemy (Max Schwarzmüller) |
+| Node.js Design Patterns | Node.js | [ ] | Udemy (Andrew Mead) |
+| Pro ASP.NET Core | .NET | [ ] | Pluralsight |
+| GraphQL Integration | API | [ ] | Apollo Docs, Udemy |
+
+---
+
+## Phase 9: DS & Algorithms (Ongoing)
+
+| Resource | Status | Supporting Platforms |
+|---|---|---|
+| DS & Algos in Java (Latest Ed.) | ✅ 2024 | LeetCode, HackerRank |
+| Grokking Coding Interviews | [ ] | LeetCode Challenges |
+| Competitive Programming 4 | [ ] | Codeforces, AtCoder |
+
+---
+
+## Phase 10: Daily Foundation Knowledge
+
+| Resource | Status | Source |
+|---|---|---|
+| OS, DB, Networking Articles | [ ] | Medium, YouTube, LinkedIn |
+| Computer Systems: A Programmer’s Perspective | [ ] | Optional Deep Dive |
+
+---
+
+## Phase 11: Advanced Microservices & Cloud-Native (Sep 16, 2026 – Sep 15, 2027)
+
+| Resource | Category | Status | Supporting Courses |
+|---|---|---|---|
+| Building Microservices (Newman) | System Design | [ ] | Educative |
+| Clean Architecture (Uncle Bob) | Architecture | [ ] | Pluralsight |
+| DDD (Evans) | DDD | [ ] | Official DDD Resources |
+| Implementing DDD (Vernon) | DDD | [ ] | Implementation Guides |
+| Designing Data-Intensive Apps | System Design | [ ] | Educative Masterclass |
+| Distributed Systems Observability | Observability | [ ] | Prometheus, Grafana, Jaeger |
+| Microservices Patterns | System Design | [ ] | Pluralsight |
+| Reactive Microservices Patterns | Event-Driven | [ ] | Udemy – Reactive Spring Boot |
+
+---
+
+🎉 **Happy learning and coding!**
