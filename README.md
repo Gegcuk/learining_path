@@ -52,6 +52,7 @@ _(Completed prior to the roadmap launch — ✅ indicates completion)_
 | Effective Java | ✅ 2024 |  |
 | Modern Java in Action | ✅ 02.2025 |  |
 | JUnit 5 in Action | ✅ 02.2025 |  |
+| Computer Networking. A top down Approach |  02.2025 |  |
 | OCP Java SE 17 Developer (1Z0-829) Prep | [ ] | Oracle Docs, Boyarsky & Selikoff, Enthuware |
 
 ---
